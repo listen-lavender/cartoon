@@ -43,17 +43,17 @@ panels:
 comic_info:
   type: "一格漫画，宽599，高255"
   style: "幽默简笔画"
-  color_scheme: "雪天白色"
+  color_scheme: "桃花粉红,无旁白"
   character:
-    name: "自由女神像"
-      appearance: "罗马式长袍的女神，右手高擎着火炬，左臂抱着书"
-      personality: "自由和希望"
-  background_style: "手绘简约的纽约都市"
+    name: "美女"
+      appearance: "上半身美女"
+      personality: "青春靓丽"
+  background_style: "手绘春天"
 panels:
   panel1:
     description: "一格:铺垫"
-    scene: "雪天很冷"
-    action: "自由女神像：被盖上了红花绿被子"
-    expression: ""
-    details: ""
+    scene: "春光灿烂"
+    action: "美女:照镜子"
+    expression: "刹那芳华"
+    details: "镜中是白骨样子"
     text: ""
